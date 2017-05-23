@@ -1,0 +1,11 @@
+com\service\display\model\Severity.class
+com\service\display\repository\LogOperationsImpl$1.class
+com\service\display\services\LogReader.class
+com\service\display\repository\LogOperationsImpl.class
+com\service\display\controller\MainController.class
+com\service\display\controller\AppInitializer.class
+com\service\display\repository\LogOperations.class
+com\service\display\config\Configuration.class
+com\service\display\services\MemoryCache.class
+com\service\display\services\PropertiesReader.class
+com\service\display\model\Result.class
